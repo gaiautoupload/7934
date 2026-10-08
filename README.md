@@ -1,5 +1,7 @@
 # 7934 鋒霈環境科技主力雷達
 
+每日分點榜已於 2026-10-08 改為全市場當日有交易的全部分點；核心與多日追蹤保留原有策略範圍。維護規則見 [DAILY_RANKING.md](DAILY_RANKING.md)。
+
 純 HTML、CSS、JavaScript 的手機優先靜態網站，可由 GitHub Pages 直接從 `main` 分支根目錄發布，不需要伺服器、資料庫或 GitHub Actions。
 
 ## 本地每日更新
